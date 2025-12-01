@@ -175,20 +175,17 @@ platforms:
     name: "虫部落"
 
 
-  
   # 失败的综合新闻媒体类
-   - id: "sina"
-     name: "新浪"           # 失败原因：接口可能已变更
-   - id: "sohu" 
-     name: "搜狐"           # 失败原因：接口可能已变更
+  - id: "sina"
+    name: "新浪"           # 失败原因：接口可能已变更
+  - id: "sohu" 
+    name: "搜狐"           # 失败原因：接口可能已变更
   
-
- 
-   - id: "smzdm"
-     name: "什么值得买"     # 失败原因：接口可能已变更
+  - id: "smzdm"
+    name: "什么值得买"     # 失败原因：接口可能已变更
   
  
   - id: "36kr"
     name: "36氪"           # 失败原因：接口可能已变更
   - id: "linuxdo"
-    name: "LinuxDo"        # 失败原因：接口可能已变更
+    name: "LinuxDo"        # 失败原因：接口可 能已变更
